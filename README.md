@@ -1,2 +1,1 @@
-# PowerBi_Project
-Power BI report created using Power BI.
+# Power BI Project(Interactive report created using Power BI))
